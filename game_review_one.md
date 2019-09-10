@@ -5,7 +5,8 @@
 ## Details
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+Kingdome Come: Deliverance
+https://www.kingdomcomerpg.com/
 
 ### Rating
 Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.

@@ -9,7 +9,7 @@ https://www.metrothegame.com/en-gb/
 I give this game a solid 9 out of 10.
 
 ## Summary
-
+Metro Exodus is a first person shooter that takes place in a post apocalyptic wasteland in Russia. 
 This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
 
 ## Final Thoughts

@@ -1,18 +1,23 @@
-# Game Review for (GAME TITLE)
+# Game Review for (DiceWars)
 
 ## Details
 
-### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+### DiceWars
+https://www.gamedesign.jp/flash/dice/dice.html
+This is the Flash version I originally found.
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+I give this flash game a solid 6 out of 10.
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
+  Dicewars is a game in where the player goes up against an AI to take over territoy using dice rolls in order to see who takes control of the territory.
+  The way the take over style works is that players start randomly with a certain amount of dice on each territory then during their turn phases the player will choose which territory they want to go for so long as its next to their territory. The dice roll comes into play when the player goes for the territory because if the player has three dice and the opponent has two, the opponent can still win due to the roll of each dice, so the player can get three twos in a roll whule the AI gets two sixs thus giving them more and winning the outcome. When a player loses the takeover phase they keep their original space but lose dice on that territory, and does not take over the opponent's space, as well as after the end of each players turn they get a certain amount of dice back that are placed randomly to their remaining territories based on the amount of dice they have at the bottom of the screen.
+  The game goes on like this until one of the players is able to take over the entire board, and there is the ability to play up to 8 players which would be a player versus seven AI in a free for all to take over the whole map. Speaking of the map there are actually a few different board layouts so the the player does not play the same one twice in a row, with an option before play asking if the player has played that map and if so the game will choose another map to play on. 
+  At eight players the game becomes really difficult and knowing which territory to go for that won't leave the player vulnerable to being taken over during one of the AI's turn phases.
 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+This game was actually really fun and interesting to learn as I played, though with the ability of eight players it would be nice to see a match between eight real people rather than one person versus seven AI players, but other than that its a really fun game thats nice to play in your spare time.
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+https://www.gamedesign.jp/games/dicewars/
+This is the main site version from the website.

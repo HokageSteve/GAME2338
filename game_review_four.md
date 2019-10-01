@@ -17,7 +17,7 @@ I give this flash game a solid 6 out of 10.
   
   The game goes on like this until one of the players is able to take over the entire board, and there is the ability to play up to 8 players which would be a player versus seven AI in a free for all to take over the whole map. Speaking of the map there are actually a few different board layouts so the the player does not play the same one twice in a row, with an option before play asking if the player has played that map and if so the game will choose another map to play on. 
   
-  At eight players the game becomes really difficult and knowing which territory to go for that won't leave the player vulnerable to being taken over during one of the AI's turn phases.
+  At eight players the game becomes really difficult and knowing which territory to go for that won't leave the player vulnerable to being taken over during one of the AI's turn phases becomes key to winning the game, but very difficult since the AI's can take eachother out thus giving them more dice power.
 
 ## Final Thoughts
 This game was actually really fun and interesting to learn as I played, though with the ability of eight players it would be nice to see a match between eight real people rather than one person versus seven AI players, but other than that its a really fun game thats nice to play in your spare time.

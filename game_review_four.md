@@ -4,6 +4,7 @@
 
 ### DiceWars
 https://www.gamedesign.jp/flash/dice/dice.html
+
 This is the Flash version I originally found.
 
 ### Rating
@@ -20,4 +21,5 @@ This game was actually really fun and interesting to learn as I played, though w
 
 ## Additional Information
 https://www.gamedesign.jp/games/dicewars/
+
 This is the main site version from the website.

@@ -1,5 +1,7 @@
 # Bungie Testing Halo 3 
 
+## Outline and Review
+
 The first thing the Bungie crew does is get in around six in the morning and for the first two hours, they play Halo 3 to test the basics such as the game loads in properly, the player and enemies load into the game, weopons work how they should, and exiting the game etc. 
 
 I feel this is a very smart move by the Bungie team to make sure the game and all assets are working, for even if they were working in the previous day, theres no guarantee that everything will work the next time or if used in a different way that was different from before, so testing the game for two hours is dedication and a very good idea to amke sure you have the best quality and working game.

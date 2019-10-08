@@ -8,7 +8,7 @@
 I give Yu-Gi-Oh! Forbidden Memories, a solid 5 out of 10.
 
 ## Summary
-Yu-Gi-Oh! Forbidden Memories is about your character which you can name so its more of a personel experience, and Yugi Moto, a kid dueling to be the best at duel monsters, and in this game, your character is a spirit within the puzzle that Yugi puts together and wears around his neck. The game is dueling other AI duelist in a tournament in order to become "King of Games" and to do so, assembling a proper deck is key.
+Yu-Gi-Oh! Forbidden Memories is about your character which you can name so its more of a personel experience, and Yugi Moto, a kid dueling to be the best at duel monsters, and in this game, your character is a spirit within the puzzle that Yugi puts together and wears around his neck. The game is dueling other AI duelist in a tournament in order to become "King of Games" and must battle through all other duelist and find out his destiny.
 
 In this game, you must create a deck and this deck must contain fourty cards no more no less, but at first the game starts you with fourty cards but as you progress and gain starchips, which are the currency for the game, and with starchips, you can purchase new cards and you get new cards from defeating other AIs in duels. There are duels outside of the campaign mode, which is the versus, were you can duel with AIs you've defeated in the story, as well as a two player versus so you can duel a friend by building your decks with the cards you get.
 

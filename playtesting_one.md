@@ -2,7 +2,8 @@
 
 * Game Publisher: TinyBuild Games
 * Game Rating: 7/10 on Steam, 4/5 on Google Play, 3.8/5 on Apple Store
-* [Game Title Website]:(https://www.helloneighborgame.com/)
+* Game Website: https://www.helloneighborgame.com/
+
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ The game is somewhat clear on what you have to do, what isn't really clear is how to go about completing the objective, in the prologue, it's obvious, the player must get an item, but as to how to do it is up to the player, for there can be multiple ways to go about it. Though in later levels it becomes more unclear as to what exactly must be done to escape. 

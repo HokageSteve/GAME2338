@@ -1,8 +1,8 @@
-# Playtest for [Game Title]
+# Playtest for [Amnesia: The Dark Descent]
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* Game Publisher: Frictional Games
+* Game Rating: 10/10 on steam and 88% on PC Gamer
+* [Game Title Website] (https://www.amnesiagame.com/#main)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
